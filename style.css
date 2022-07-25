@@ -1,0 +1,25 @@
+
+
+.oreng-bg{
+    background-color: #fceae8;
+    margin-top: 100px;
+}
+
+.catagory img {
+    width: 120px;
+}
+.bag-cat-2{
+    background-color: #da70d6;
+}
+.bag-cat-3{
+    background-color: #0000ff;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
